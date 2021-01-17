@@ -1,0 +1,4 @@
+com.kompani.snek
+drawable ic_launcher
+string app_name
+style GdxTheme

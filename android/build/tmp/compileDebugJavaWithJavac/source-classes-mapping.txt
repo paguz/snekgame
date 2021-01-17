@@ -1,0 +1,2 @@
+com/kompani/snek/BuildConfig.java
+ com.kompani.snek.BuildConfig

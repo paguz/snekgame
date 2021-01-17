@@ -1,0 +1,74 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Patrik\.gradle\caches\transforms-2\files-2.1\2ceb68d3ac25aa158a0065121bf60294\multidex-1.0.2\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:3:11-37
+		INJECTED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml
+		INJECTED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml
+		ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml
+		ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:4:5-21:19
+	android:label
+		ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:9:13-45
+	android:appCategory
+		ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:8:13-39
+	android:icon
+		ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:6:13-49
+	android:allowBackup
+		ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:5:13-39
+	android:theme
+		ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:10:13-44
+	android:isGame
+		ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:7:13-34
+activity#com.kompani.snek.android.AndroidLauncher
+ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:11:9-20:20
+	android:screenOrientation
+		ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:14:17-53
+	android:label
+		ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:13:17-49
+	android:configChanges
+		ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:15:17-111
+	android:name
+		ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:12:17-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml
+INJECTED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Patrik\.gradle\caches\transforms-2\files-2.1\2ceb68d3ac25aa158a0065121bf60294\multidex-1.0.2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Patrik\.gradle\caches\transforms-2\files-2.1\2ceb68d3ac25aa158a0065121bf60294\multidex-1.0.2\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml
+INJECTED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml
+		ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml
+		INJECTED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml
+		ADDED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml
+		INJECTED from C:\Users\Patrik\AndroidStudioProjects\Snek\android\AndroidManifest.xml
